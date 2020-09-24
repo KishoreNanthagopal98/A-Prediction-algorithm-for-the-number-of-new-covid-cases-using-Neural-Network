@@ -6,4 +6,6 @@ I Created a Neural Network that predicts the number of new covid cases with pair
 
 The dataset is downloaded from WHO site which contains features "Date_reported", "Country_code","Country","WHO_region","New_cases","Cumulative_cases","New_deaths",	 "Cumulative_deaths". I have extracted all data coresponding to INDIA.
 
+The Dataset contains data from "MARCH 1st" to "SEPTEMBER 22nd".
+
 The prediction is based on "month", "date", "new-cases".
